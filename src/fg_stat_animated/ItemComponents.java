@@ -5,7 +5,6 @@
  */
 package fg_stat_animated;
 
-import java.awt.Color;
 import java.awt.Point;
 import java.awt.image.BufferedImage;
 import java.io.File;
